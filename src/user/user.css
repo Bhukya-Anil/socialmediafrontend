@@ -1,0 +1,23 @@
+.hello{
+   
+    
+    background-color: rgba(245, 238, 238, 0.795);
+    box-shadow: 3px 3px rgb(211, 210, 210);
+  
+    
+}
+.hxx{
+    background-color: rgb(223, 219, 219);
+}
+
+.fx{
+    color:rgb(245, 242, 247);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.fxx{
+    font-family:cursive;
+}
+.hfx{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
